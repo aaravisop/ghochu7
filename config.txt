@@ -1,0 +1,5 @@
+{
+	"ip":"schoolsmp774.aternos.me:61504",
+	"port": "61504",
+	"name": "ghochu"
+}
